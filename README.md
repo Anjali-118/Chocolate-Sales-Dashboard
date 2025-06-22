@@ -23,5 +23,5 @@ Microsoft Excel
 ## Data Source 
 Chocolate Sales Dashboard-https://chandoo.org/wp/wp-content/uploads/2024/10/sample-chocolate-sales-data-1.xlsx
 
-## Screenshots
-(https://github.com/Anjali-118/Chocolate-Sales-Dashboard/blob/main/Screenshot%20of%20the%20Dashboard.jpeg).
+# Screenshots
+![Dashboard Preview].(https://github.com/Anjali-118/Chocolate-Sales-Dashboard/blob/main/Screenshot%20of%20the%20Dashboard.jpeg).
